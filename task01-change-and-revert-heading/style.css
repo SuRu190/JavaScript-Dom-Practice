@@ -1,0 +1,31 @@
+body {
+    font-family: cursive;
+    padding: 100px;
+    background-color: #555;
+    text-align: center;
+}
+
+.container {
+    padding: 20px;
+    border: none;
+    border-radius: 50px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.9);
+    width: 20%;
+    margin: auto;
+    background-color: white;
+}
+
+button {
+    font-size: 20px;
+    padding: 6px 30px;
+    border: 2px solid grey;
+    border-radius: 50px;
+    background-color: cadetblue;
+    margin-bottom: 20px;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: rgb(34, 119, 122);
+}
