@@ -20,11 +20,10 @@ This repository contains beginner-friendly JavaScript DOM manipulation tasks. Ea
 ---
 
 ### 2️⃣ Toggle Button Text
-- A button that toggles its label between two states (e.g., "Click Me" ↔ "Clicked!").
+- A button that toggles its label between two states (e.g., "Start" ↔ "Stop!").
 - ✅ Concepts used:
   - Button interaction
   - Event handling
-  - Boolean toggling logic
 
 ---
 
