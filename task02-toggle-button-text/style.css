@@ -1,0 +1,30 @@
+body {
+    font-family: cursive;
+    padding: 100px;
+    background-color: #333;
+    text-align: center;
+}
+
+.container {
+    background-color: white;
+    padding: 30px;
+    border: none;
+    border-radius: 50px;
+    box-shadow: 0 0 30px rgba(0, 0, 0, 0.9);
+    width: 15%;
+    margin: auto;
+}
+
+button {
+    font-size: 20px;
+    padding: 8px 40px;
+    border: 2px solid grey;
+    border-radius: 50px;
+    font-weight: 600;
+    cursor: pointer;
+    background-color: coral;
+}
+
+button:hover {
+    background-color: rgb(201, 64, 15);
+}
