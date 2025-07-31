@@ -2,7 +2,7 @@
 
 This repository contains beginner-friendly JavaScript DOM manipulation tasks. Each task focuses on a small concept to build a strong foundation in working with the DOM using vanilla JavaScript.
 
-> 📌 Currently contains **3 tasks**. More will be added regularly. Final target: **20+ mini DOM projects**.
+> 📌 Currently contains **6 tasks**. More will be added regularly. Final target: **20+ mini DOM projects**.
 
 ---
 
