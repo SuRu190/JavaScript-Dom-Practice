@@ -10,12 +10,12 @@ This repository contains beginner-friendly JavaScript DOM manipulation tasks. Ea
 
 | No. | Task Name                  | Description                                                                 | Live Demo              |
 |-----|-----------------------------|----------------------------------------------------------------------------|------------------------|
-| 1   | Change and Revert Heading  | Changes the heading text on button click, and reverts on second click.      | [Live](#)              |
-| 2   | Toggle Button Text         | Toggles the text of a single button between two values.                     | [Live](#)              |
-| 3   | Multiple Headings          | Changes the text of multiple headings using loop and `querySelectorAll`.    | [Live](#)              |
-| 4   | innerHTML vs textContent   | Shows the difference between `.textContent` and `.innerHTML` when used.     | [Live](#)              |
-| 5   | Change Style on Click      | Changes the background and text color of a heading element on click.        | [Live](#)              |
-| 6   | Update Heading             |  User types in the input and replaces the default heading with user-entered text on button click.             | [Live](#)              |
+| 1   | Change and Revert Heading  | Changes the heading text on button click, and reverts on second click.      | [Click to view Live](#)              |
+| 2   | Toggle Button Text         | Toggles the text of a single button between two values.                     | [Click to view Live](#)              |
+| 3   | Multiple Headings          | Changes the text of multiple headings using loop and `querySelectorAll`.    | [Click to view Live](#)              |
+| 4   | innerHTML vs textContent   | Shows the difference between `.textContent` and `.innerHTML` when used.     | [Click to view Live](#)              |
+| 5   | Change Style on Click      | Changes the background and text color of a heading element on click.        | [Click to view Live](#)              |
+| 6   | Update Heading             |  User types in the input and replaces the default heading with user-entered text on button click.             | [Click to view Live](#)              |
 
 ---
 
