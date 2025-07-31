@@ -6,6 +6,19 @@ This repository contains beginner-friendly JavaScript DOM manipulation tasks. Ea
 
 ---
 
+## ✅ Completed Tasks
+
+| No. | Task Name                  | Description                                                                 | Folder Name                | Live Demo             |
+|-----|-----------------------------|-----------------------------------------------------------------------------|-----------------------------|------------------------|
+| 1   | Change and Revert Heading  | Changes the heading text on button click, and reverts on second click.      | Change-and-Revert-Heading   | [Live](#)              |
+| 2   | Toggle Button Text         | Toggles the text of a single button between two values.                     | Toggle-Button-Text          | [Live](#)              |
+| 3   | Multiple Headings          | Changes the text of multiple headings using loop and `querySelectorAll`.    | Multiple-Headings           | [Live](#)              |
+| 4   | innerHTML vs textContent   | Shows the difference between `.textContent` and `.innerHTML` when used.     | innerHTML-vs-textContent    | [Live](#)              |
+| 5   | Change Style on Click      | Changes the background and text color of a heading element on click.        | Change-Style-on-Click       | [Live](#)              |
+| 6   | Update Heading             | Changes the heading and button text dynamically on each click.              | Update-Heading              | [Live](#)              |
+
+---
+
 ## ✅ Tasks Completed So Far
 
 ### 1️⃣ Change and Revert Heading
@@ -36,8 +49,34 @@ This repository contains beginner-friendly JavaScript DOM manipulation tasks. Ea
 
 ---
 
-## 🚀 How to Use
+### 4️⃣ innerHTML vs textContent
+- Demonstrates the difference between `.innerHTML` and `.textContent`.
+- Shows how `.textContent` treats HTML tags as plain text, while `.innerHTML` renders them as HTML.
+- ✅ Concepts used:
+  - `textContent`
+  - `innerHTML`
+  - DOM manipulation
+  - Button events
 
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/suru190/JavaScript-Dom-Practice.git
+---
+
+### 5️⃣ Change Style on Click
+- Clicking the button changes the color and background of a heading.
+- Useful for practicing dynamic style changes using JavaScript.
+- ✅ Concepts used:
+  - `style` property
+  - `addEventListener`
+  - DOM element selection
+
+---
+
+### 6️⃣ Update Heading
+- Updates both the heading text and button text when the button is clicked.
+- Demonstrates how to change multiple elements dynamically.
+- ✅ Concepts used:
+  - `textContent`
+  - `addEventListener`
+  - DOM manipulation
+  - Updating multiple elements
+
+---
