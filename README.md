@@ -8,7 +8,7 @@ This repository contains beginner-friendly JavaScript DOM manipulation tasks. Ea
 
 ## ✅ Completed Tasks
 
-| No. | Task Name                  | Description                                                                 | Live Demo             |
+| No. | Task Name                  | Description                                                                 | Live Demo              |
 |-----|-----------------------------|----------------------------------------------------------------------------|------------------------|
 | 1   | Change and Revert Heading  | Changes the heading text on button click, and reverts on second click.      | [Live](#)              |
 | 2   | Toggle Button Text         | Toggles the text of a single button between two values.                     | [Live](#)              |
