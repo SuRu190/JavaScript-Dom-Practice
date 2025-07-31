@@ -10,7 +10,7 @@ This repository contains beginner-friendly JavaScript DOM manipulation tasks. Ea
 
 | No. | Task Name                  | Description                                                                 | Live Demo              |
 |-----|-----------------------------|----------------------------------------------------------------------------|------------------------|
-| 1   | Change and Revert Heading  | Changes the heading text on button click, and reverts on second click.      | [Click to view Live](#)              |
+| 1   | Change and Revert Heading  | Changes the heading text on button click, and reverts on second click.      | [Click to view Live](https://suru190.github.io/JavaScript-Dom-Practice/task01-change-and-revert-heading)              |
 | 2   | Toggle Button Text         | Toggles the text of a single button between two values.                     | [Click to view Live](#)              |
 | 3   | Multiple Headings          | Changes the text of multiple headings using loop and `querySelectorAll`.    | [Click to view Live](#)              |
 | 4   | innerHTML vs textContent   | Shows the difference between `.textContent` and `.innerHTML` when used.     | [Click to view Live](#)              |
