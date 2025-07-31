@@ -14,8 +14,8 @@ This repository contains beginner-friendly JavaScript DOM manipulation tasks. Ea
 | 2   | Toggle Button Text         | Toggles the text of a single button between two values.                     | [Click to view Live](https://suru190.github.io/JavaScript-Dom-Practice/task02-toggle-button-text)              |
 | 3   | Multiple Headings          | Changes the text of multiple headings using loop and `querySelectorAll`.    | [Click to view Live](https://suru190.github.io/JavaScript-Dom-Practice/task03-multiple-heading)              |
 | 4   | innerHTML vs textContent   | Shows the difference between `.textContent` and `.innerHTML` when used.     | [Click to view Live](https://suru190.github.io/JavaScript-Dom-Practice/task04-innerHTML-vs-textContent)              |
-| 5   | Change Style on Click      | Changes the background and text color of a heading element on click.        | [Click to view Live](https://suru190.github.io/JavaScript-Dom-Practice/)              |
-| 6   | Update Heading             |  User types in the input and replaces the default heading with user-entered text on button click.             | [Click to view Live](#)              |
+| 5   | Change Style on Click      | Changes the background and text color of a heading element on click.        | [Click to view Live](https://suru190.github.io/JavaScript-Dom-Practice/task05-change-style-on-click)              |
+| 6   | Update Heading             |  User types in the input and replaces the default heading with user-entered text on button click.             | [Click to view Live](https://suru190.github.io/JavaScript-Dom-Practice/)              |
 
 ---
 
