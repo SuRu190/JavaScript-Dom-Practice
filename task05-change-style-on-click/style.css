@@ -1,0 +1,32 @@
+body {
+    font-family: cursive;
+    padding: 100px;
+    background: linear-gradient(to right, #456789, #987654);
+    text-align: center;
+}
+
+.container {
+    background-color: white;
+    border: none;
+    border-radius: 50px;
+    padding: 30px 20px 50px 20px;
+    width: 20%;
+    margin: auto;
+}
+
+h1 {
+    border: none;
+    border-radius: 50px;
+    padding: 10px 0;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.9);
+}
+
+button {
+    padding: 8px 40px;
+    border: none;
+    border-radius: 50px;
+    font-weight: 600;
+    font-size: 20px;
+    cursor: pointer;
+    background-color: burlywood;
+}
