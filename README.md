@@ -80,3 +80,41 @@ This repository contains beginner-friendly JavaScript DOM manipulation tasks. Ea
   - Updating multiple elements
 
 ---
+
+## 📁 Project Structure
+
+```
+JavaScript-Dom-Practice/
+│
+├── Task-1/  (Change and Revert Heading)
+│   ├── index.html
+│   ├── style.css
+│   └── script.js
+│
+├── Task-2/  (Toggle Button Text)
+│   ├── index.html
+│   ├── style.css
+│   └── script.js
+│
+├── Task-3/  (Multiple Headings)
+│   ├── index.html
+│   ├── style.css
+│   └── script.js
+│
+├── Task-4/  (innerHTML vs textContent)
+│   ├── index.html
+│   ├── style.css
+│   └── script.js
+│
+├── Task-5/  (Change Style on Click)
+│   ├── index.html
+│   ├── style.css
+│   └── script.js
+│
+├── Task-6/  (Update Heading)
+│   ├── index.html
+│   ├── style.css
+│   └── script.js
+│
+└── README.md
+```
