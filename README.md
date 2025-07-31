@@ -8,14 +8,14 @@ This repository contains beginner-friendly JavaScript DOM manipulation tasks. Ea
 
 ## ✅ Completed Tasks
 
-| No. | Task Name                  | Description                                                                 | Folder Name                | Live Demo             |
-|-----|-----------------------------|-----------------------------------------------------------------------------|-----------------------------|------------------------|
-| 1   | Change and Revert Heading  | Changes the heading text on button click, and reverts on second click.      | Change-and-Revert-Heading   | [Live](#)              |
-| 2   | Toggle Button Text         | Toggles the text of a single button between two values.                     | Toggle-Button-Text          | [Live](#)              |
-| 3   | Multiple Headings          | Changes the text of multiple headings using loop and `querySelectorAll`.    | Multiple-Headings           | [Live](#)              |
-| 4   | innerHTML vs textContent   | Shows the difference between `.textContent` and `.innerHTML` when used.     | innerHTML-vs-textContent    | [Live](#)              |
-| 5   | Change Style on Click      | Changes the background and text color of a heading element on click.        | Change-Style-on-Click       | [Live](#)              |
-| 6   | Update Heading             | Changes the heading and button text dynamically on each click.              | Update-Heading              | [Live](#)              |
+| No. | Task Name                  | Description                                                                 | Live Demo             |
+|-----|-----------------------------|----------------------------------------------------------------------------|------------------------|
+| 1   | Change and Revert Heading  | Changes the heading text on button click, and reverts on second click.      | [Live](#)              |
+| 2   | Toggle Button Text         | Toggles the text of a single button between two values.                     | [Live](#)              |
+| 3   | Multiple Headings          | Changes the text of multiple headings using loop and `querySelectorAll`.    | [Live](#)              |
+| 4   | innerHTML vs textContent   | Shows the difference between `.textContent` and `.innerHTML` when used.     | [Live](#)              |
+| 5   | Change Style on Click      | Changes the background and text color of a heading element on click.        | [Live](#)              |
+| 6   | Update Heading             |  User types in the input and replaces the default heading with user-entered text on button click.             | [Live](#)              |
 
 ---
 
