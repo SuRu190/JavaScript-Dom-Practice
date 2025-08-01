@@ -149,5 +149,20 @@ JavaScript-Dom-Practice/
 │   ├── style.css
 │   └── script.js
 │
+├── Task-07/ (Show / Hide Paragraph)
+│ ├── index.html
+│ ├── style.css
+│ └── script.js
+│
+├── Task-08/  (Live Character Counter)
+│ ├── index.html
+│ ├── style.css
+│ └── script.js
+│
+├── Task-09/  (Increase Counter on Every Button Click)
+│ ├── index.html
+│ ├── style.css
+│ └── script.js
+|
 └── README.md
 ```
