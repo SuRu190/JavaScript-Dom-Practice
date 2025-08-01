@@ -1,0 +1,36 @@
+body {
+    font-family: cursive;
+    text-align: center;
+    padding: 100px;
+    background-color: cornflowerblue;
+}
+
+.container {
+    width: 30%;
+    background-color: white;
+    margin: auto;
+    padding: 30px 20px 50px 20px;
+    border: none;
+    border-radius: 50px;
+}
+
+.input-sec {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    gap: 10px;
+}
+
+p {
+    font-size: 20px;
+}
+
+button {
+    padding: 9px 20px;
+    cursor: pointer;
+    font-size: 15px;
+    font-weight: 600;
+    border: 2px solid chartreuse;
+    border-radius: 8px;
+    background-color: chartreuse;
+}
