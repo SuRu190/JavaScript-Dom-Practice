@@ -16,6 +16,9 @@ This repository contains beginner-friendly JavaScript DOM manipulation tasks. Ea
 | 4   | innerHTML vs textContent   | Shows the difference between `.textContent` and `.innerHTML` when used.     | [Click to view Live](https://suru190.github.io/JavaScript-Dom-Practice/task04-innerHTML-vs-textContent)|
 | 5   | Change Style on Click      | Changes the background and text color of a heading element on click.        | [Click to view Live](https://suru190.github.io/JavaScript-Dom-Practice/task05-change-style-on-click)|
 | 6   | Update Heading             |  User types in the input and replaces the default heading with user-entered text on button click.             | [Click to view Live](https://suru190.github.io/JavaScript-Dom-Practice/task06-update-heading)|
+| 7   | Show / Hide Paragraph            |  User types in the input and replaces the default heading with user-entered text on button click.             | [Click to view Live](https://suru190.github.io/JavaScript-Dom-Practice/task06-update-heading)|
+| 8   | Live Character Counter             |  User types in the input and replaces the default heading with user-entered text on button click.             | [Click to view Live](https://suru190.github.io/JavaScript-Dom-Practice/task06-update-heading)|
+| 9   | Add List Items Dynamically             |  User types in the input and replaces the default heading with user-entered text on button click.             | [Click to view Live](https://suru190.github.io/JavaScript-Dom-Practice/task06-update-heading)|
 
 ---
 
