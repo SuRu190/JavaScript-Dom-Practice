@@ -18,7 +18,7 @@ This repository contains beginner-friendly JavaScript DOM manipulation tasks. Ea
 | 6   | Update Heading             |  User types in the input and replaces the default heading with user-entered text on button click.             | [Click to view Live](https://suru190.github.io/JavaScript-Dom-Practice/task06-update-heading)|
 | 7   | Show / Hide Paragraph            |  Click the button to show or hide a paragraph.             | [Click to view Live](https://suru190.github.io/JavaScript-Dom-Practice/task06-update-heading)|
 | 8   | Live Character Counter             |  Displays character count live as you type in the input field.             | [Click to view Live](https://suru190.github.io/JavaScript-Dom-Practice/task06-update-heading)|
-| 9   | Add List Items Dynamically             |  A button click increases the counter value and updates it on screen.             | [Click to view Live](https://suru190.github.io/JavaScript-Dom-Practice/task06-update-heading)|
+| 9   | Increase Couter on Every Button Click             |  A button click increases the counter value and updates it on screen.             | [Click to view Live](https://suru190.github.io/JavaScript-Dom-Practice/task06-update-heading)|
 
 ---
 
