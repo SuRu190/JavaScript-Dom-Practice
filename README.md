@@ -84,12 +84,33 @@ This repository contains beginner-friendly JavaScript DOM manipulation tasks. Ea
 
 ---
 
-### 3️⃣ Show / Hide Paragraph
+### 7️⃣ Show / Hide Paragraph
 - Click the button to toggle visibility of a paragraph.
 - ✅ Concepts used:
   - `style.display`
   - Toggle logic with `if` condition
   - DOM element selection
+
+---
+
+### 8️⃣ Live Character Counter
+- As you type in the input, character count updates live.
+- ✅ Concepts used:
+  - `input` event
+  - `textContent`
+  - DOM events and real-time update
+ 
+---
+
+### 9️⃣ Increase Counter on Every Button Click  
+- Click the button to increase the counter by 1 on every click.  
+- Counter starts from **0** and updates live on screen.  
+- ✅ **Concepts used**:  
+  - `textContent`  
+  - `addEventListener`  
+  - DOM element selection  
+  - Variables and Increment (`++`)  
+  - Updating DOM in real-time
 
 ---
 
