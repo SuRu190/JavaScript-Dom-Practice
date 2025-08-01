@@ -84,6 +84,15 @@ This repository contains beginner-friendly JavaScript DOM manipulation tasks. Ea
 
 ---
 
+### 3️⃣ Show / Hide Paragraph
+- Click the button to toggle visibility of a paragraph.
+- ✅ Concepts used:
+  - `style.display`
+  - Toggle logic with `if` condition
+  - DOM element selection
+
+---
+
 ## 📁 Project Structure
 
 ```
