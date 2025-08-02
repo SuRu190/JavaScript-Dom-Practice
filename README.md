@@ -1,168 +1,44 @@
-# 🔧 JavaScript DOM Tasks – Beginner Practice
+# 📘 JavaScript DOM Practice Tasks
 
-This repository contains beginner-friendly JavaScript DOM manipulation tasks. Each task focuses on a small concept to build a strong foundation in working with the DOM using vanilla JavaScript.
-
-> 📌 Currently contains **9 tasks**. More will be added regularly. Final target: **20+ mini DOM projects**.
+This repository contains beginner-friendly JavaScript DOM manipulation tasks. Each task is focused on practicing core DOM concepts with clean structure and interactive behavior.
 
 ---
 
-## ✅ Completed Tasks
+## ✅ Completed Tasks Structure
 
-| No. | Task Name                  | Description                                                                 | Live Demo              |
-|-----|-----------------------------|----------------------------------------------------------------------------|------------------------|
-| 1   | Change and Revert Heading  | Changes the heading text on button click, and reverts on second click.      | [Click to view Live](https://suru190.github.io/JavaScript-Dom-Practice/task01-change-and-revert-heading)|
-| 2   | Toggle Button Text         | Toggles the text of a single button between two values.                     | [Click to view Live](https://suru190.github.io/JavaScript-Dom-Practice/task02-toggle-button-text)|
-| 3   | Multiple Headings          | Changes the text of multiple headings using loop and `querySelectorAll`.    | [Click to view Live](https://suru190.github.io/JavaScript-Dom-Practice/task03-multiple-heading)|
-| 4   | innerHTML vs textContent   | Shows the difference between `.textContent` and `.innerHTML` when used.     | [Click to view Live](https://suru190.github.io/JavaScript-Dom-Practice/task04-innerHTML-vs-textContent)|
-| 5   | Change Style on Click      | Changes the background and text color of a heading element on click.        | [Click to view Live](https://suru190.github.io/JavaScript-Dom-Practice/task05-change-style-on-click)|
-| 6   | Update Heading             |  User types in the input and replaces the default heading with user-entered text on button click.             | [Click to view Live](https://suru190.github.io/JavaScript-Dom-Practice/task06-update-heading)|
-| 7   | Show / Hide Paragraph            |  Click the button to show or hide a paragraph.             | [Click to view Live](https://suru190.github.io/JavaScript-Dom-Practice/task07-show-hide-paragraph)|
-| 8   | Live Character Counter             |  Displays character count live as you type in the input field.             | [Click to view Live](https://suru190.github.io/JavaScript-Dom-Practice/task08-live-character-counter)|
-| 9   | Increase Couter on Every Button Click             |  A button click increases the counter value and updates it on screen.             | [Click to view Live](https://suru190.github.io/JavaScript-Dom-Practice/task09-increase-counter-on-every-button-click)|
+Each task contains:
+- `index.html` – HTML Structure
+- `style.css` – Styling
+- `script.js` – JavaScript functionality
+- `README.md` – Task description, concepts used, what I learned, and flow
 
 ---
 
-## ✅ Tasks Completed So Far
+## 📂 Tasks List
 
-### 1️⃣ Change and Revert Heading
-- Click the button to change the heading text.
-- Click again to revert it to the original text.
-- ✅ Concepts used:
-  - `textContent`
-  - `addEventListener`
-  - DOM element selection
-  - If/else condition
-
----
-
-### 2️⃣ Toggle Button Text
-- A button that toggles its label between two states (e.g., "Start" ↔ "Stop!").
-- ✅ Concepts used:
-  - Button interaction
-  - Event handling
+| No. | Task Name | Live Demo | Code |
+|-----|-----------|-----------|------|
+| 01 | Change and Revert Heading | 🔗 [Live Demo](https://suru190.github.io/JavaScript-Dom-practice/task01-change-and-revert-heading/) | 💻 [Code](https://github.com/suru190/JavaScript-Dom-practice/tree/main/task01-change-and-revert-heading) |
+| 02 | Toggle Button Text | 🔗 [Live Demo](https://suru190.github.io/JavaScript-Dom-practice/task02-toggle-button-text/) | 💻 [Code](https://github.com/suru190/JavaScript-Dom-practice/tree/main/task02-toggle-button-text) |
+| 03 | Multiple Heading | 🔗 [Live Demo](https://suru190.github.io/JavaScript-Dom-practice/task03-multiple-heading/) | 💻 [Code](https://github.com/suru190/JavaScript-Dom-practice/tree/main/task03-multiple-heading) |
+| 04 | innerHTML vs textContent | 🔗 [Live Demo](https://suru190.github.io/JavaScript-Dom-practice/task04-innerHTML-vs-textContent/) | 💻 [Code](https://github.com/suru190/JavaScript-Dom-practice/tree/main/task04-innerHTML-vs-textContent) |
+| 05 | Change Style on Click | 🔗 [Live Demo](https://suru190.github.io/JavaScript-Dom-practice/task05-change-style-on-click/) | 💻 [Code](https://github.com/suru190/JavaScript-Dom-practice/tree/main/task05-change-style-on-click) |
+| 06 | Update Heading | 🔗 [Live Demo](https://suru190.github.io/JavaScript-Dom-practice/task06-update-heading/) | 💻 [Code](https://github.com/suru190/JavaScript-Dom-practice/tree/main/task06-update-heading) |
+| 07 | Show / Hide Paragraph | 🔗 [Live Demo](https://suru190.github.io/JavaScript-Dom-practice/task07-show-hide-paragraph/) | 💻 [Code](https://github.com/suru190/JavaScript-Dom-practice/tree/main/task07-show-hide-paragraph) |
+| 08 | Live Character Counter | 🔗 [Live Demo](https://suru190.github.io/JavaScript-Dom-practice/task08-live-character-counter/) | 💻 [Code](https://github.com/suru190/JavaScript-Dom-practice/tree/main/task08-live-character-counter) |
+| 09 | Increase Counter on Every Button Click | 🔗 [Live Demo](https://suru190.github.io/JavaScript-Dom-practice/task09-increase-counter-on-every-button-click/) | 💻 [Code](https://github.com/suru190/JavaScript-Dom-practice/tree/main/task09-increase-counter-on-every-button-click) |
+| 10 | Add List Items Dynamically | 🔗 [Live Demo](https://suru190.github.io/JavaScript-Dom-practice/task10-add-list-items-dynamically/) | 💻 [Code](https://github.com/suru190/JavaScript-Dom-practice/tree/main/task10-add-list-items-dynamically) |
+| 11 | Delete List Items Dynamically | 🔗 [Live Demo](https://suru190.github.io/JavaScript-Dom-practice/task11-delete-list-items-dynamically/) | 💻 [Code](https://github.com/suru190/JavaScript-Dom-practice/tree/main/task11-delete-list-items-dynamically) |
+| 12 | Mark List as Completed | 🔗 [Live Demo](https://suru190.github.io/JavaScript-Dom-practice/task12-mark-list-as-completed/) | 💻 [Code](https://github.com/suru190/JavaScript-Dom-practice/tree/main/task12-mark-list-as-completed) |
 
 ---
 
-### 3️⃣ Multiple Headings Change
-- Change the text of multiple `<h1>` elements with a single button click.
-- ✅ Concepts used:
-  - `querySelectorAll`
-  - `forEach()` loop
-  - DOM manipulation for multiple elements
+## 📌 Purpose
+
+This repository helps in understanding:
+- DOM selection and manipulation
+- Event handling
+- Conditional rendering
+- Styling and interaction using JavaScript
 
 ---
-
-### 4️⃣ innerHTML vs textContent
-- Demonstrates the difference between `.innerHTML` and `.textContent`.
-- Shows how `.textContent` treats HTML tags as plain text, while `.innerHTML` renders them as HTML.
-- ✅ Concepts used:
-  - `textContent`
-  - `innerHTML`
-  - DOM manipulation
-  - Button events
-
----
-
-### 5️⃣ Change Style on Click
-- Clicking the button changes the color and background of a heading.
-- Useful for practicing dynamic style changes using JavaScript.
-- ✅ Concepts used:
-  - `style` property
-  - `addEventListener`
-  - DOM element selection
-
----
-
-### 6️⃣ Update Heading
-- Updates both the heading text and button text when the button is clicked.
-- Demonstrates how to change multiple elements dynamically.
-- ✅ Concepts used:
-  - `textContent`
-  - `addEventListener`
-  - DOM manipulation
-  - Updating multiple elements
-
----
-
-### 7️⃣ Show / Hide Paragraph
-- Click the button to toggle visibility of a paragraph.
-- ✅ Concepts used:
-  - `style.display`
-  - Toggle logic with `if` condition
-  - DOM element selection
-
----
-
-### 8️⃣ Live Character Counter
-- As you type in the input, character count updates live.
-- ✅ Concepts used:
-  - `input` event
-  - `textContent`
-  - DOM events and real-time update
- 
----
-
-### 9️⃣ Increase Counter on Every Button Click  
-- Click the button to increase the counter by 1 on every click.  
-- Counter starts from **0** and updates live on screen.  
-- ✅ **Concepts used**:  
-  - `textContent`  
-  - `addEventListener`  
-  - DOM element selection  
-  - Variables and Increment (`++`)  
-  - Updating DOM in real-time
-
----
-
-## 📁 Project Structure
-
-```
-JavaScript-Dom-Practice/
-│
-├── Task-01/  (Change and Revert Heading)
-│   ├── index.html
-│   ├── style.css
-│   └── script.js
-│
-├── Task-02/  (Toggle Button Text)
-│   ├── index.html
-│   ├── style.css
-│   └── script.js
-│
-├── Task-03/  (Multiple Headings)
-│   ├── index.html
-│   ├── style.css
-│   └── script.js
-│
-├── Task-04/  (innerHTML vs textContent)
-│   ├── index.html
-│   ├── style.css
-│   └── script.js
-│
-├── Task-05/  (Change Style on Click)
-│   ├── index.html
-│   ├── style.css
-│   └── script.js
-│
-├── Task-06/  (Update Heading)
-│   ├── index.html
-│   ├── style.css
-│   └── script.js
-│
-├── Task-07/ (Show / Hide Paragraph)
-│ ├── index.html
-│ ├── style.css
-│ └── script.js
-│
-├── Task-08/  (Live Character Counter)
-│ ├── index.html
-│ ├── style.css
-│ └── script.js
-│
-├── Task-09/  (Increase Counter on Every Button Click)
-│ ├── index.html
-│ ├── style.css
-│ └── script.js
-|
-└── README.md
-```
