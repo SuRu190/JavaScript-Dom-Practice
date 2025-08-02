@@ -18,7 +18,7 @@ Each task contains:
 
 | No. | Task Name | Live Demo | Code |
 |-----|-----------|-----------|------|
-| 01 | Change and Revert Heading | 🔗 [Live Demo](https://suru190.github.io/JavaScript-Dom-practice/task01-change-and-revert-heading/) | 💻 [Code](https://github.com/suru190/JavaScript-Dom-practice/tree/main/task01-change-and-revert-heading) |
+| 01 | Change and Revert Heading | 🔗 [Live Demo](https://suru190.github.io/JavaScript-Dom-Practice/task01-change-and-revert-heading/) | 💻 [Code](https://github.com/suru190/JavaScript-Dom-practice/tree/main/task01-change-and-revert-heading) |
 | 02 | Toggle Button Text | 🔗 [Live Demo](https://suru190.github.io/JavaScript-Dom-practice/task02-toggle-button-text/) | 💻 [Code](https://github.com/suru190/JavaScript-Dom-practice/tree/main/task02-toggle-button-text) |
 | 03 | Multiple Heading | 🔗 [Live Demo](https://suru190.github.io/JavaScript-Dom-practice/task03-multiple-heading/) | 💻 [Code](https://github.com/suru190/JavaScript-Dom-practice/tree/main/task03-multiple-heading) |
 | 04 | innerHTML vs textContent | 🔗 [Live Demo](https://suru190.github.io/JavaScript-Dom-practice/task04-innerHTML-vs-textContent/) | 💻 [Code](https://github.com/suru190/JavaScript-Dom-practice/tree/main/task04-innerHTML-vs-textContent) |
