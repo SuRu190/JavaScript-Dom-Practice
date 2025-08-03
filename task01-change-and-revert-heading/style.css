@@ -1,13 +1,13 @@
 body {
     font-family: cursive;
     padding: 100px 20px;
-    background-color: #555;
+    background: linear-gradient(to right, lightgreen, lightblue);
     text-align: center;
     margin: 0;
 }
 
 .container {
-    padding: 20px;
+    padding: 20px 20px 30px 20px;
     border: none;
     border-radius: 30px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.9);
@@ -20,17 +20,16 @@ body {
 button {
     font-size: 18px;
     padding: 8px 25px;
-    border: 2px solid grey;
+    border: none;
     border-radius: 50px;
-    background-color: cadetblue;
-    margin-top: 20px;
+    background-color: cornflowerblue;
     font-weight: 600;
     cursor: pointer;
     transition: background-color 0.3s;
 }
 
 button:hover {
-    background-color: rgb(34, 119, 122);
+    background-color: rgb(58, 161, 164);
 }
 
 h1 {
