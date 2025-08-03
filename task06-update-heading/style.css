@@ -1,39 +1,128 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
 body {
-    font-family: cursive;
-    padding: 100px;
-    text-align: center;
-    background: linear-gradient(to right, #896754, #238954);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  padding: 80px 20px;
+  text-align: center;
+  background: linear-gradient(to right, lightblue, lightgreen);
 }
 
 .container {
-    background-color: white;
-    padding: 30px 20px 50px 20px;
-    width: 30%;
-    margin: auto;
-    border: none;
-    border-radius: 50px;
+  background-color: white;
+  padding: 30px 20px;
+  width: 90%;
+  max-width: 400px;
+  margin: auto;
+  border-radius: 40px;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
 }
 
-.input-sec {
-    display: flex;
-    align-items: center;
+.input {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  flex-wrap: wrap;
+  margin-top: 20px;
 }
 
 input {
-    flex: 1;
-    width: 55%;
-    padding: 10px;
-    border: 3px solid grey;
-    border-radius: 8px;
-    outline: none;
+  padding: 10px 15px;
+  font-size: 1rem;
+  width: 65%;
+  min-width: 180px;
+  border: 3px solid grey;
+  border-radius: 15px;
 }
 
 button {
-    font-size: 20px;
-    padding: 7px 20px;
-    border-radius: 8px;
-    background-color: chocolate;
-    font-weight: 600;
-    border: 2.8px solid chocolate;
-    cursor: pointer;
+  font-size: 0.9rem;
+  padding: 10px 14px;
+  border: none;
+  border-radius: 12px;
+  background-color: cornflowerblue;
+  cursor: pointer;
+  color: white;
+  transition: transform 0.2s ease;
+}
+
+button:active {
+  transform: scale(1.15);
+}
+
+@media (max-width: 440px) {
+  .input {
+    flex-direction: column;
+  }
+
+  input,
+  button {
+    width: 100%;
+  }
+
+  input {
+    font-size: 0.95rem;
+  }
+
+  button {
+    font-size: 1rem;
+    padding: 12px;
+  }
+}
+
+@media (max-width: 310px) {
+  .container {
+    padding: 20px 10px;
+    border-radius: 30px;
+  }
+
+  .input {
+    flex-direction: column;
+    gap: 8px;
+  }
+
+  input,
+  button {
+    width: 100%;
+    font-size: 0.9rem;
+  }
+
+  button {
+    padding: 10px;
+  }
+
+  #heading {
+    font-size: 1.2rem;
+  }
+}
+
+@media (max-width: 260px) {
+  .container {
+    padding: 15px 8px;
+    border-radius: 25px;
+  }
+
+  .input {
+    flex-direction: column;
+    gap: 6px;
+  }
+
+  input,
+  button {
+    width: 100%;
+    font-size: 0.8rem;
+  }
+
+  button {
+    padding: 8px;
+  }
+
+  #heading {
+    font-size: 1rem;
+    padding: 8px;
+  }
 }
