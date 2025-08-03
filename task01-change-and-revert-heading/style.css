@@ -34,10 +34,6 @@ button {
     transition: background-color 0.3s;
 }
 
-button:hover {
-    background-color: rgb(58, 161, 164);
-}
-
 @media (max-width: 390px) {
     .container {
         box-sizing: border-box;
@@ -52,3 +48,4 @@ button:hover {
         padding: 10px 30px;
     }
 }
+
