@@ -21,7 +21,7 @@ body {
 button {
   font-size: 2rem;
   padding: 12px 30px;
-  border: 3px solid grey;
+  border: none;
   border-radius: 40px;
   cursor: pointer;
   background-color: cornflowerblue;
@@ -45,3 +45,4 @@ button:active {
     width: 60%;
   }
 }
+
