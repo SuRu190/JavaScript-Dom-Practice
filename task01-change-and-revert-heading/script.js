@@ -1,16 +1,16 @@
 const heading = document.getElementById("heading");
 const button = document.getElementById("clickBtn");
 
-const originalText = Heading.textContent;
-const newText = "Hello World";
+const originalText = heading.textContent;
+const newText = "Changed Text";
 
 button.addEventListener("click", () => {
-    if (Heading.textContent === originalText) {
-        Heading.textContent = newText;
+    if (heading.textContent === originalText) {
+        heading.textContent = newText;
         button.textContent = "Click to Revert";
     }
     else {
-        Heading.textContent = originalText;
-        button.textContent = "Click here to Change";
+        heading.textContent = originalText;
+        button.textContent = "Click Here to Change";
     }
 })
