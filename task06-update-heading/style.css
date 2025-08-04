@@ -21,7 +21,7 @@ body {
   box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
 }
 
-.input {
+.inputsec {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -126,3 +126,4 @@ button:active {
     padding: 8px;
   }
 }
+
