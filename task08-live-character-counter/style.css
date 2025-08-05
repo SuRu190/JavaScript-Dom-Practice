@@ -22,10 +22,6 @@ input {
     border-radius: 15px;
 }
 
-h2 {
-    margin: 20px 0 0 0;
-}
-
 @media (max-width: 600px) {
   body {
     padding: 50px 20px;
@@ -34,10 +30,6 @@ h2 {
   input {
     font-size: 14px;
     padding: 12px;
-  }
-
-  h2 {
-    font-size: 16px;
   }
 }
 
@@ -56,10 +48,6 @@ h2 {
     font-size: 14px;
     padding: 12px;
   }
-
-  h2 {
-    font-size: 16px;
-  }
 }
 
 @media (max-width: 300px) {
@@ -68,8 +56,5 @@ h2 {
     font-size: 13px;
     padding: 10px;
   }
-
-  h2 {
-    font-size: 14px;
-  }
 }
+
