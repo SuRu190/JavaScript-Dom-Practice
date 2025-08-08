@@ -2,7 +2,7 @@ const heading = document.getElementById("heading");
 const button = document.getElementById("click");
 
 const originalText = heading.textContent;
-const newtext = "Updated!";
+const newtext = "Updated Heading!";
 let isUpdated = false;
 
 button.addEventListener("click", () => {
@@ -22,4 +22,5 @@ button.addEventListener("click", () => {
     }
 
 });
+
 
