@@ -9,7 +9,7 @@ button.addEventListener("click", () => {
     if (!isUpdated) {
         heading.textContent = newtext;
         heading.style.backgroundColor = "red";
-        heading.style.color = "black";
+        heading.style.color = "white";
         button.textContent = "Click to Revert";
         isUpdated = true;
     }
@@ -22,5 +22,6 @@ button.addEventListener("click", () => {
     }
 
 });
+
 
 
