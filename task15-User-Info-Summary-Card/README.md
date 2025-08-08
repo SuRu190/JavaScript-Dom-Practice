@@ -24,7 +24,9 @@ User enters:
 
 Displayed Card:
 A white card in the center of the page with:
+
 Hello Priya!
+
 You are 28 years old.
 
 Your Favourite Color is Red
