@@ -34,6 +34,7 @@ Each task contains:
 | 14 | User Mood Based on Age | 🔗 [Live Demo](https://suru190.github.io/JavaScript-Dom-Practice/task14-User-Mood-Based-on-Age/) | 💻 [Code](https://github.com/suru190/JavaScript-Dom-Practice/tree/main/task14-User-Mood-Based-on-Age) |
 | 15 | User Info Summary Card | 🔗 [Live Demo](https://suru190.github.io/JavaScript-Dom-Practice/task15-User-Info-Summary-Card/) | 💻 [Code](https://github.com/suru190/JavaScript-Dom-Practice/tree/main/task15-User-Info-Summary-Card) |
 | 16 | Click to show info | 🔗 [Live Demo](https://suru190.github.io/JavaScript-Dom-Practice/task16-click-to-show-info/) | 💻 [Code](https://github.com/suru190/JavaScript-Dom-Practice/tree/main/task16-click-to-show-info) |
+| 17 | Personalized Greeting Card | 🔗 [Live Demo](https://suru190.github.io/JavaScript-Dom-Practice/task17-personalized-greeting-card/) | 💻 [Code](https://github.com/suru190/JavaScript-Dom-Practice/tree/main/task17-personalized-greeting-card) |
 
 ---
 
