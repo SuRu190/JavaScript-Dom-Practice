@@ -47,3 +47,13 @@ This repository helps in understanding:
 - Styling and interaction using JavaScript
 
 ---
+
+## 📱 Responsiveness
+
+All tasks in this repository are fully responsive.  
+They adapt seamlessly to various screen sizes, ensuring usability on:
+- Mobile devices (small screens)
+- Tablets
+- Desktops  
+
+Custom `@media` queries are implemented where necessary to improve the user experience on very small devices.
