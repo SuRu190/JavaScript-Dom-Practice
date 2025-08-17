@@ -13,4 +13,4 @@ button.addEventListener("click", () => {
         heading.textContent = originalText;
         button.textContent = "Click Here to Change";
     }
-})
+});
