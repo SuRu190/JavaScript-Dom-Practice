@@ -35,6 +35,8 @@ Each task contains:
 | 15 | User Info Summary Card | 🔗 [Live Demo](https://suru190.github.io/JavaScript-Dom-Practice/task15-User-Info-Summary-Card/) | 💻 [Code](https://github.com/suru190/JavaScript-Dom-Practice/tree/main/task15-User-Info-Summary-Card) |
 | 16 | Click to show info | 🔗 [Live Demo](https://suru190.github.io/JavaScript-Dom-Practice/task16-click-to-show-info/) | 💻 [Code](https://github.com/suru190/JavaScript-Dom-Practice/tree/main/task16-click-to-show-info) |
 | 17 | Personalized Greeting Card | 🔗 [Live Demo](https://suru190.github.io/JavaScript-Dom-Practice/task17-personalized-greeting-card/) | 💻 [Code](https://github.com/suru190/JavaScript-Dom-Practice/tree/main/task17-personalized-greeting-card) |
+| 18 | Toggle Dark Light Mode | 🔗 [Live Demo](https://suru190.github.io/JavaScript-Dom-Practice/task18-toggle-dark-light-mode/) | 💻 [Code](https://github.com/suru190/JavaScript-Dom-Practice/tree/main/task18-toggle-dark-light-mode) |
+| 19 | Image Slider | 🔗 [Live Demo](https://suru190.github.io/JavaScript-Dom-Practice/task19-image-slider/) | 💻 [Code](https://github.com/suru190/JavaScript-Dom-Practice/tree/main/task19-image-slider) |
 
 ---
 
