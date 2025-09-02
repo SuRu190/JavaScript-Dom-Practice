@@ -37,6 +37,7 @@ Each task contains:
 | 17 | Personalized Greeting Card | 🔗 [Live Demo](https://suru190.github.io/JavaScript-Dom-Practice/task17-personalized-greeting-card/) | 💻 [Code](https://github.com/suru190/JavaScript-Dom-Practice/tree/main/task17-personalized-greeting-card) |
 | 18 | Toggle Dark/Light Mode | 🔗 [Live Demo](https://suru190.github.io/JavaScript-Dom-Practice/task18-toggle-dark-light-mode/) | 💻 [Code](https://github.com/suru190/JavaScript-Dom-Practice/tree/main/task18-toggle-dark-light-mode) |
 | 19 | Image Slider | 🔗 [Live Demo](https://suru190.github.io/JavaScript-Dom-Practice/task19-image-slider/) | 💻 [Code](https://github.com/suru190/JavaScript-Dom-Practice/tree/main/task19-image-slider) |
+| 19 | Form Validation | 🔗 [Live Demo](https://suru190.github.io/JavaScript-Dom-Practice/task20-form-validation/) | 💻 [Code](https://github.com/suru190/JavaScript-Dom-Practice/tree/main/task20-form-validation) |
 
 ---
 
