@@ -21,4 +21,4 @@ Build a form that validates user inputs (Name, Email, Password) in real-time bef
 1. User leaves Name empty → shows `"Name is required"` in red.  
 2. User enters invalid Email → shows `"Enter a valid email"`.  
 3. User enters Password shorter than 6 characters → shows `"Password must be at least 6 characters"`.  
-4. Once all fields are valid → form resets and `"Form submitted successfully!"` is displayed in green.  
+4. Once all fields are valid → form resets and `"Form submitted successfully!"` is displayed.  
